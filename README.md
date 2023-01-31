@@ -1,27 +1,23 @@
-<h1  align="center">JS Recipes</h1>
+# Movie Search App
+## Built with JavaScript and MealsDB.
+
+
+> Built with JavaScript and powered by [The Movie Database (TMDB)](https://developers.themoviedb.org/3).
 
 <p  align="center">
-
-<img  src="https://forthebadge.com/images/badges/built-with-love.svg"  />
 <img  src="https://forthebadge.com/images/badges/made-with-javascript.svg"  />
-
 </p>
 
   
  
   
 
-## Tech Stack
-
+## Stack
 
 - HTML
-
 - CSS
-
 - JavaScript
-
 - Bootstrap
-
 - TheMealDB API
 
   
